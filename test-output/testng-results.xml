@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KPMGTestProjectChrome Suite" duration-ms="11747" started-at="2020-06-28T05:58:53Z" finished-at="2020-06-28T05:59:05Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="11747" started-at="2020-06-28T05:58:53Z" finished-at="2020-06-28T05:59:05Z">
+      <class name="com.tests.ValidateHomePage">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.tests.ValidateHomePage@46d56d67]" name="setUp" is-config="true" duration-ms="4144" started-at="2020-06-28T05:58:53Z" finished-at="2020-06-28T05:58:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomePage()[pri:1, instance:com.tests.ValidateHomePage@46d56d67]" name="validateHomePage" duration-ms="6113" started-at="2020-06-28T05:58:57Z" finished-at="2020-06-28T05:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="validateText()[pri:2, instance:com.tests.ValidateHomePage@46d56d67]" name="validateText" duration-ms="785" started-at="2020-06-28T05:59:03Z" finished-at="2020-06-28T05:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.ValidateHomePage@46d56d67]" name="tearDown" is-config="true" duration-ms="688" started-at="2020-06-28T05:59:04Z" finished-at="2020-06-28T05:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.ValidateHomePage -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- KPMGTestProjectChrome Suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+com\utils\PropReader.class
+com\utils\TakeScreenshots.class
+com\framework\LaunchBrowser.class
+com\utils\TestScreenshots.class
+com\framework\BaseTest.class
